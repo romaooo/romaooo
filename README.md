@@ -5,7 +5,7 @@
 
 🔧 Technician in Electronics (ETEC graduate)
 
-💼 Former Office Assistant, now transitioning into tech                                                 
+💼 Former Office Assistant, now transitioning into tech                                                                             
 
 💡 Passionate about solving problems and building real projects
 
