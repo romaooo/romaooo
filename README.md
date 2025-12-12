@@ -6,7 +6,6 @@
     <p style="margin:6px 0;">🔧 <strong>Electronics Technician (ETEC graduate)</strong></p>
     <p style="margin:6px 0;">💼 Former <strong>Office Assistant</strong>, now transitioning into the tech world</p>
     <p style="margin:6px 0;">💡 Passionate about solving problems and turning ideas into real projects</p>
-    <p style="margin:6px 0;">🏳️‍🌈 <strong>Bisexual — proud of who I am and the path I'm building</strong></p>
     <p style="margin:6px 0;">🚀 Always improving my logic, organization, and development skills</p>
   </div>
 </div>
