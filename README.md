@@ -1,17 +1,15 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hi there, I'm Rayan!
+<h2>👋 Hi there, I'm Rayan!</h2>
 
-🎓 21-year-old Systems Analysis and Development Student
-
-🔧 Technician in Electronics (ETEC graduate)
-
-💼 Former Office Assistant, now transitioning into tech                                                                             
-
-💡 Passionate about solving problems and building real projects
-
-🏳️‍🌈 Bisexual — proud of who I am and where I’m going
-
-🚀 Always improving my logic, structure, and development skills
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; border: 2px solid black; padding: 15px; border-radius: 10px;">
+  <div style="width: 60%;">
+    <p style="margin:6px 0;">🎓 <strong>21-year-old Systems Analysis and Development student</strong></p>
+    <p style="margin:6px 0;">🔧 <strong>Electronics Technician (ETEC graduate)</strong></p>
+    <p style="margin:6px 0;">💼 Former <strong>Office Assistant</strong>, now transitioning into the tech world</p>
+    <p style="margin:6px 0;">💡 Passionate about solving problems and turning ideas into real projects</p>
+    <p style="margin:6px 0;">🏳️‍🌈 <strong>Bisexual — proud of who I am and the path I'm building</strong></p>
+    <p style="margin:6px 0;">🚀 Always improving my logic, organization, and development skills</p>
+  </div>
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,14 +56,9 @@ Languages I use:
 He/Him
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📫 Contact me
-<div> <a href="https://www.linkedin.com/in/rayanromao" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ✨ Fun fact
 
-⚡ I started in electronics, worked in an office, and now I’m building my path into software development — one line of code at a time.
+⚡ I started in electronics, worked in an office, and now I’m building my path into software development — one line of code at a time.>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
